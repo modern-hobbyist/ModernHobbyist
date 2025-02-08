@@ -4,67 +4,136 @@
     "type": "split",
     "children": [
       {
-        "id": "40fed136af582c1c",
-        "type": "tabs",
+        "id": "18da3c0f6db2edf9",
+        "type": "split",
         "children": [
           {
-            "id": "3ec528ef510e3c5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "templates/main.md",
-                "mode": "source",
-                "source": false
+            "id": "40fed136af582c1c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "3ec528ef510e3c5b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "templates/main.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "main"
+                }
               },
-              "icon": "lucide-file",
-              "title": "main"
-            }
+              {
+                "id": "0fd0400fc8504558",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "index.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "index"
+                }
+              },
+              {
+                "id": "1a2a6e528f94be50",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Test.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Test"
+                }
+              },
+              {
+                "id": "8a197769120482f1",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "index.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "index"
+                }
+              },
+              {
+                "id": "9babaa42f47fa6f0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "index.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "index"
+                }
+              }
+            ],
+            "currentTab": 2
           },
           {
-            "id": "0fd0400fc8504558",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "8a197769120482f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "9babaa42f47fa6f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
+            "id": "ec7f0a6dd1b1be2e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "dd07d79cd7ca98d5",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "terminal:terminal",
+                  "state": {
+                    "terminal:terminal": {
+                      "cwd": "/Users/charliesteenhagen/modern-hobbyist",
+                      "focus": false,
+                      "profile": {
+                        "args": [],
+                        "executable": "/bin/zsh",
+                        "name": "",
+                        "platforms": {
+                          "darwin": true
+                        },
+                        "pythonExecutable": "python3",
+                        "restoreHistory": true,
+                        "successExitCodes": [
+                          "0",
+                          "SIGINT",
+                          "SIGTERM"
+                        ],
+                        "terminalOptions": {
+                          "documentOverride": null
+                        },
+                        "type": "integrated",
+                        "useWin32Conhost": true
+                      },
+                      "serial": {
+                        "columns": 153,
+                        "data": "/Users/charliesteenhagen/.zshrc:1: command not found: brew\r\n/Users/charliesteenhagen/.zshrc:source:1: no such file or directory: /opt/chruby/share/chruby/chruby.sh\r\n\r\n[\u001b[33mWARNING\u001b[0m]: Console output during zsh initialization detected.\r\n\r\nWhen using Powerlevel10k with instant prompt, console output during zsh\r\ninitialization may indicate issues.\r\n\r\nYou can:\r\n\r\n  - \u001b[1mRecommended\u001b[0m: Change \u001b[1m~/.zshrc\u001b[0m so that it does not perform console I/O\r\n    after the instant prompt preamble. See the link below for details.\r\n\r\n    * You \u001b[1mwill not\u001b[0m see this error message again.\r\n    * Zsh will start \u001b[1mquickly\u001b[0m and prompt will update \u001b[1msmoothly\u001b[0m.\r\n\r\n  - Suppress this warning either by running \u001b[1mp10k configure\u001b[0m or by manually\r\n    defining the following parameter:\r\n\r\n      \u001b[33mtypeset\u001b[0m -g POWERLEVEL9K_INSTANT_PROMPT=quiet\r\n\r\n    * You \u001b[1mwill not\u001b[0m see this error message again.\r\n    * Zsh will start \u001b[1mquickly\u001b[0m but prompt will \u001b[1mjump down\u001b[0m after initialization.\r\n\r\n  - Disable instant prompt either by running \u001b[1mp10k configure\u001b[0m or by manually\r\n    defining the following parameter:\r\n\r\n      \u001b[33mtypeset\u001b[0m -g POWERLEVEL9K_INSTANT_PROMPT=off\r\n\r\n    * You \u001b[1mwill not\u001b[0m see this error message again.\r\n    * Zsh will start \u001b[1mslowly\u001b[0m.\r\n\r\n  - Do nothing.\r\n\r\n    * You \u001b[1mwill\u001b[0m see this error message every time you start zsh.\r\n    * Zsh will start \u001b[1mquickly\u001b[0m but prompt will \u001b[1mjump down\u001b[0m after initialization.\r\n\r\nFor details, see:\r\n\u001b[4mhttps://github.com/romkatv/powerlevel10k#instant-prompt\r\n\r\n\u001b[33;24m-- console output produced during zsh initialization follows --\r\n\r\n\u001b[0m/Users/charliesteenhagen/.zshrc:36: command not found: brew\r\n\u001b[38;5;76m>\u001b[0m bre\r\nzsh: command not found: bre\r\n\u001b[38;5;196m>\u001b[0m brew\r\nzsh: command not found: brew\r\n\r\n\u001b[38;5;31;48;5;236m \u001b[38;5;39;1m~\u001b[38;5;31;22m/\u001b[38;5;39;1mmodern-hobbyist\u001b[38;5;31;22m \u001b[38;5;244m|\u001b[38;5;178m \u001b[38;5;76mmain \u001b[38;5;178m!1 \u001b[38;5;39m?1\u001b[38;5;178m \u001b[38;5;240;49m------------------------------------------------------------------------------------------------------------------------\r\n\u001b[38;5;196m>\u001b[0m ",
+                        "rows": 24
+                      }
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "terminal",
+                  "title": "Terminal: charliesteenhagen@WK00738:~/modern-hobbyist"
+                }
+              }
+            ]
           }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -214,12 +283,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0fd0400fc8504558",
+  "active": "dd07d79cd7ca98d5",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Test.md",
     "index.md",
     "templates/main.md",
-    "Test.md",
     "templates",
     "_site/template.html",
     "_site/index 1.html",
