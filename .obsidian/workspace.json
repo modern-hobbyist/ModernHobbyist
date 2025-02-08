@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TestFolder/Test.md",
+                "file": "Random/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "Untitled"
             }
           },
           {
@@ -227,11 +227,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3ec528ef510e3c5b",
+  "active": "7cb2194fe6c89b2c",
   "lastOpenFiles": [
+    "Random/Useful Links.md",
+    "_site/Random/Useful Links.html",
+    "_site/Random/Untitled.html",
+    "_site/Random/Test.html",
+    "_site/Random",
     "how-i-made-this-wiki.md",
-    "TestFolder/Test.md",
-    "TestFolder/Untitled.md",
+    "Random/Untitled.md",
     "_templates/main.md",
     "index.md",
     "_site/how-i-made-this-wiki.html",
@@ -242,11 +246,7 @@
     "_site/TestFolder/Untitled.html",
     "_site/TestFolder/Untitled.md",
     "_site/TestFolder",
-    "TestFolder",
-    "_site/Test.html",
-    "_site/Poop.html",
-    "_site/index 1.html",
-    "_templates",
+    "Random",
     "_site/Untitled.canvas",
     "_site/templates/index 1.md",
     "_site/templates/main.md",
