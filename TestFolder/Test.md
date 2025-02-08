@@ -1,7 +1,6 @@
 ---
 title: Test
 layout: home
-exclude_nav: "true"
 ---
 # Heyyyyy
 ### This is my template...
