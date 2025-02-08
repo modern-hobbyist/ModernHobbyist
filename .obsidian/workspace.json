@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Random/Random.md",
+                "file": "Resources/0 - Resources.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Random"
+              "title": "0 - Resources"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/2 - Split Keyboard - Mk. I.md",
+                "file": "Resources/Useful Links.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2 - Split Keyboard - Mk. I"
+              "title": "Useful Links"
             }
           },
           {
@@ -244,25 +244,25 @@
   },
   "active": "b54a132aaa7d1f3b",
   "lastOpenFiles": [
+    "Resources/0 - Resources.md",
+    "Resources/Useful Links.md",
+    "Projects/2 - Split Keyboard - Mk. I.md",
+    "_site/Resources/0 - Resources.html",
+    "_site/Resources/Useful Links.html",
+    "_site/Resources/Random.html",
+    "_site/Resources",
     "Projects/1 - DIY Keyboard.md",
     "_site/Projects/1 - DIY Keyboard.html",
-    "Projects/2 - Split Keyboard - Mk. I.md",
     "_site/Projects/2 - Split Keyboard - Mk. I.html",
     "_site/Projects/1- DIY Keyboard.html",
     "Projects/0 - Projects.md",
     "_site/Projects/0 - Projects.html",
     "_site/Projects/DIY Keyboard.html",
     "_site/Projects/My First Keyboard.html",
-    "_site/Projects/Untitled.html",
     "_site/Projects/Untitled.md",
     "index.md",
-    "_site/Projects/Projects.html",
     "_site/Projects/Projects.md",
-    "_site/Projects/Split Keyboard - Mk. I.html",
     "_site/Projects/Split Keyboard - Mk. I.md",
-    "_site/Projects",
-    "Random/Random.md",
-    "Random/Useful Links.md",
     "how-i-made-this-wiki.md",
     "_templates/main.md",
     "_site/ThisWiki.md",

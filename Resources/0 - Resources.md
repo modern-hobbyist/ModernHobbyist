@@ -1,9 +1,9 @@
 ---
-title: Random
+title: Resources
 layout: home
 nav_order: "10"
 ---
-# Random
+# Resources
 A collection of random tools, applications and resources without any real 
 
 ----
