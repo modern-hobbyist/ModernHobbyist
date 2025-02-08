@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+parent: Test
 ---
 Thisis here me typing someatt
 
