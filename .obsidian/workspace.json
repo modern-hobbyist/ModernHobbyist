@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "how-i-made-this-wiki.md",
+                "file": "TestFolder/Test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "how-i-made-this-wiki"
+              "title": "Test"
             }
           },
           {
@@ -229,12 +229,13 @@
   },
   "active": "3ec528ef510e3c5b",
   "lastOpenFiles": [
+    "_templates/main.md",
+    "index.md",
+    "how-i-made-this-wiki.md",
     "_site/how-i-made-this-wiki.html",
     "_site/ThisWiki.html",
     "_site/ThisWiki.md",
     "_site/Untitled.md",
-    "index.md",
-    "how-i-made-this-wiki.md",
     "TestFolder/Test.md",
     "TestFolder/Untitled.md",
     "_site/TestFolder/Test.html",
@@ -244,10 +245,8 @@
     "TestFolder",
     "_site/Test.html",
     "_site/Poop.html",
-    "_templates/main.md",
     "_site/index 1.html",
     "_templates",
-    "_site/template",
     "_site/Untitled.canvas",
     "_site/templates/index 1.md",
     "_site/templates/main.md",

@@ -1,7 +1,7 @@
 ---
 title: How I made this Wiki
 layout: home
-nav_order: "10000"
+nav_order: last
 ---
 # How I made this wiki
 

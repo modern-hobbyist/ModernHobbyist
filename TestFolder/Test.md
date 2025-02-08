@@ -1,6 +1,7 @@
 ---
 title: Test
 layout: home
+nav_order: "10"
 ---
 # Heyyyyy
 ### This is my template...
