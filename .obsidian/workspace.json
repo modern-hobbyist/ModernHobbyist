@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "FAQ/FAQ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "FAQ"
             }
           },
           {
@@ -272,10 +272,11 @@
   },
   "active": "e250d2987f6ead2d",
   "lastOpenFiles": [
+    "_templates/main.md",
+    "README.md",
     "_site/README.md",
     "_site/README.md.md",
     "index.md",
-    "README.md",
     "Projects/2 - Split Keyboard - Mk. I.md",
     "Projects/1 - DIY Keyboard.md",
     "Projects/0 - Projects.md",
@@ -298,7 +299,6 @@
     "_site/Projects/Untitled.md",
     "_site/Projects/Projects.md",
     "_site/Projects/Split Keyboard - Mk. I.md",
-    "_templates/main.md",
     "_site/ThisWiki.md",
     "_site/TestFolder/Untitled.md",
     "_site/Untitled.canvas",
