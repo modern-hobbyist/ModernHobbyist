@@ -3,5 +3,7 @@
   "obsidian-style-settings",
   "terminal",
   "templater-obsidian",
-  "url-into-selection"
+  "url-into-selection",
+  "obsidian-excalidraw-plugin",
+  "editing-toolbar"
 ]
