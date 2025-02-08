@@ -1,0 +1,12 @@
+{
+  "terminal:open-terminal.integrated.root": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "T"
+    }
+  ],
+  "workspace:undo-close-pane": []
+}
