@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/main.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "main"
+              "title": "index"
             }
           },
           {
@@ -216,13 +216,14 @@
   },
   "active": "0fd0400fc8504558",
   "lastOpenFiles": [
+    "Untitled.md",
     "index.md",
-    "templates",
     "templates/main.md",
+    "Test.md",
+    "templates",
     "_site/template.html",
     "_site/index 1.html",
     "NewPage.md",
-    "Test.md",
     "OtherPage.md",
     "_site/LICENSE",
     "_site/assets/css/just-the-docs-light.css.map",
