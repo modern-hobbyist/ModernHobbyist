@@ -1,10 +1,13 @@
 ---
-title: Home
-layout: home
+title: Test
+layout: m
+exclude_nav: "true"
 ---
-Heyyyyy
-This is my template...
+# Heyyyyy
+### This is my template...
+
 ----
+
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
 [README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
