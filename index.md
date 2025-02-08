@@ -2,26 +2,35 @@
 title: Home
 layout: home
 ---
+# Welcome to the Modern Hobbyist Wiki
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+Welcome to my digital knowledge base! This wiki is a collection of everything I've learned while diving into 3D printing, CNC machining, electronics, and countless other projects. But more importantly, it's about **how** I learned these things—my process for tackling subjects I knew absolutely nothing about.
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+## Why This Wiki Exists
+I've spent years experimenting, troubleshooting, and figuring things out the hard way. While there are plenty of guides and tutorials out there on **what** to do, I found that the biggest challenge was often understanding **how** to start learning in the first place. This wiki is my attempt to document not just my knowledge but also my learning journey—so you can see the paths I took, the mistakes I made, and the strategies that worked best.
 
-More specifically, the created site:
+## What You'll Find Here
+- **Project Breakdowns** – Step-by-step insights into projects I've built, from custom mechanical keyboards to entire DIY CNC Machines.
+- **Learning Strategies** – My approach to picking up complex skills, from decoding technical documentation to troubleshooting hardware issues.
+- **Tools & Resources** – The books, videos, forums, and courses that helped me the most.
+- **Failures & Fixes** – The things that went wrong and what I did to recover.
+- **Continuous Learning** – How I stay up-to-date with rapidly evolving technologies.
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+## Who This Is For
+This wiki is for makers, tinkerers, and anyone who wants to take on new technical challenges but isn't sure where to start. Whether you're diving into 3D printing, designing PCBs, or automating your workshop, I hope my experiences help make your learning journey smoother.
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+## How to Use This Wiki
+You can browse through topics using the sidebar or search for specific subjects. If you're looking for guidance on how to approach a brand-new skill, check out the **Learning Strategies** section.
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+---
 
-To get started with creating a site, simply:
+This is a living document, and I'll be updating it as I learn more. If you have questions or suggestions, feel free to reach out!
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+Happy making!
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+Charlie Steenhagen  
+[Modern Hobbyist](https://www.youtube.com/@ModernHobbyist)
+
 
 ----
 
