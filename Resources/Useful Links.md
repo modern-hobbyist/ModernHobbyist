@@ -6,7 +6,7 @@ parent: Resources
 # Useful Links
 Here is a collection of links that I find useful.
 
-- [OptiCutter](https://www.opticutter.com/) - Sheet and length cutting optimization online. Helpful when creating build plans and ordering stock material for wood working projects
+- [OptiCutter](https://www.opticutter.com/) - Sheet and length cutting optimization online. Helpful when creating build plans and ordering stock material for 
 
 ----
 
