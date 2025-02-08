@@ -1,10 +1,8 @@
 ---
-title: Test
+title: Home
 layout: home
-exclude_nav: "true"
 ---
-# Heyyyyy
-### This is my template...
+Thisis here me typing someatt
 
 ----
 

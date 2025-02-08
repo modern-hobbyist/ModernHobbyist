@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "TestFolder/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Untitled"
             }
           },
           {
@@ -227,26 +227,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7cb2194fe6c89b2c",
+  "active": "3ec528ef510e3c5b",
   "lastOpenFiles": [
+    "_site/TestFolder/Untitled.html",
+    "_site/TestFolder/Untitled.md",
+    "_site/TestFolder",
+    "Test.md",
+    "TestFolder/Untitled.md",
+    "TestFolder",
+    "_site/Test.html",
+    "_site/Poop.html",
+    "index.md",
+    "_templates/main.md",
+    "_site/index 1.html",
+    "_templates",
     "_site/template",
     "template",
     "untitled folder",
     "_site/Untitled.canvas",
-    "index.md",
     "_site/templates/index 1.md",
     "_site/templates/index 1.html",
-    "_site/templates",
-    "_site/index 1.html",
-    "Test.md",
     "_site/templates/main.md",
-    "_site/templates/main.html",
-    "_site/Test.html",
-    "_site/templates",
-    "_site/template.html",
     "NewPage.md",
     "OtherPage.md",
-    "_site/LICENSE",
     "_site/NewPage.md",
     "Modern Hobbyist.md",
     "modern-hobbyist.md",
