@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Projects/2 - Split Keyboard - Mk. I.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "2 - Split Keyboard - Mk. I"
             }
           },
           {
@@ -242,27 +242,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7cb2194fe6c89b2c",
+  "active": "b54a132aaa7d1f3b",
   "lastOpenFiles": [
-    "CNAME",
+    "Projects/1 - DIY Keyboard.md",
+    "_site/Projects/1 - DIY Keyboard.html",
+    "Projects/2 - Split Keyboard - Mk. I.md",
+    "_site/Projects/2 - Split Keyboard - Mk. I.html",
+    "_site/Projects/1- DIY Keyboard.html",
+    "Projects/0 - Projects.md",
+    "_site/Projects/0 - Projects.html",
+    "_site/Projects/DIY Keyboard.html",
+    "_site/Projects/My First Keyboard.html",
+    "_site/Projects/Untitled.html",
+    "_site/Projects/Untitled.md",
+    "index.md",
+    "_site/Projects/Projects.html",
+    "_site/Projects/Projects.md",
+    "_site/Projects/Split Keyboard - Mk. I.html",
+    "_site/Projects/Split Keyboard - Mk. I.md",
+    "_site/Projects",
     "Random/Random.md",
     "Random/Useful Links.md",
-    "_site/Random/Useful Links.html",
-    "_site/Random/Random.html",
     "how-i-made-this-wiki.md",
-    "_site/Random/Untitled.html",
-    "_site/Random/Test.html",
-    "_site/Random",
     "_templates/main.md",
-    "index.md",
-    "_site/how-i-made-this-wiki.html",
-    "_site/ThisWiki.html",
     "_site/ThisWiki.md",
     "_site/Untitled.md",
-    "_site/TestFolder/Test.html",
-    "_site/TestFolder/Untitled.html",
     "_site/TestFolder/Untitled.md",
-    "_site/TestFolder",
     "_site/Untitled.canvas",
     "_site/templates/index 1.md",
     "_site/templates/main.md",
