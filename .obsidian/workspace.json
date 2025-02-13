@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/1 - DIY Keyboard.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1 - DIY Keyboard"
+              "title": "index"
             }
           },
           {
@@ -273,11 +273,11 @@
   },
   "active": "e250d2987f6ead2d",
   "lastOpenFiles": [
+    "Projects/1 - DIY Keyboard.md",
     "Projects/Diagram.md",
     "Projects/2 - Split Keyboard - Mk. I.md",
     "_site/Projects/Diagram.html",
     "_site/Projects/Drawing 2025-02-08 16.16.14.excalidraw.html",
-    "Projects/1 - DIY Keyboard.md",
     "FAQ/FAQ.md",
     "_templates/main.md",
     "README.md",
