@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Projects/1 - DIY Keyboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "1 - DIY Keyboard"
             }
           },
           {
@@ -273,6 +273,7 @@
   },
   "active": "e250d2987f6ead2d",
   "lastOpenFiles": [
+    "index.md",
     "Projects/1 - DIY Keyboard.md",
     "Projects/Diagram.md",
     "Projects/2 - Split Keyboard - Mk. I.md",
@@ -283,7 +284,6 @@
     "README.md",
     "_site/README.md",
     "_site/README.md.md",
-    "index.md",
     "Projects/0 - Projects.md",
     "Resources/0 - Resources.md",
     "how-i-made-this-wiki.md",

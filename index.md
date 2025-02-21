@@ -8,7 +8,7 @@ nav_order: "0"
 Welcome to my digital knowledge base! This wiki is a collection of everything I've learned while diving into 3D printing, CNC machining, electronics, and countless other projects. But more importantly, it's about **how** I learned these things—my process for tackling subjects I knew absolutely nothing about.
 
 ## Why This Wiki Exists
-I've spent years experimenting, troubleshooting, and figuring things out the hard way. While there are plenty of guides and tutorials out there on **what** to do, I found that the biggest challenge was often understanding **how** to start learning in the first place. This wiki is my attempt to document not just my knowledge but also my learning journey—so you can see the paths I took, the mistakes I made, and the strategies that worked best.
+I've spent years experimenting, troubleshooting, and figuring things out the hard way. While there are plenty of guides and tutorials out there on **what** to do, I found that the biggest challenge was often understanding **how** to start learning in the first place. This wiki is my attempt to document not just my (very limited) knowledge but also my learning journey—so you can see the paths I took, the mistakes I made, and the strategies that worked best.
 
 ## What You'll Find Here
 - **Project Breakdowns** – Step-by-step insights into projects I've built, from custom mechanical keyboards to entire DIY CNC Machines.

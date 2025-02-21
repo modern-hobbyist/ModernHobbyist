@@ -7,6 +7,19 @@ parent: Projects
 # Project Heimdall
 This was my first dive into building DIY mechanical keyboards, and needless to say, it was a huge undertaking. As such, there were so many different videos, wiki's and Discord channels as well as prior knowledge that all came together to allow me to build this keyboard, so I'll do my best to build out a comprehensive list of my sources, but keep in mind it will be constantly growing.
 
+# Getting Started
+So, you want to design a custom keyboard from scratch? Well, let's assume (like me) that you don't know the first thing about designing a custom keyboard from scratch. In that case, where do you start?
+
+Well first, let's take stock of what knowledge you'll need:
+- PCB Design
+	- I had designed several PCB's up to this point, but nothing more complicated than connecting some traces between through hole components. Definitely nothing with any SMD components, and I have only ever glanced at datasheets (only to become overwhelmed and immediately close them).
+- 3d design
+	- While I am certainly not "gifted" in this category, I have to admit I have some formal training in CAD from my early days of College as a mechanical engineer. 
+- Firmware
+	- This is the category that I am most comfortable in, which is lucky as that's my day job. However, I don't have experience writing QMK and I haven't written C code in like 8 years, so I still had many things to learn.
+
+
+
 # Useful Links
 ## Video Guides
 - https://www.youtube.com/watch?v=7azQkSu0m_U
