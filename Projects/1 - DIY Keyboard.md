@@ -10,15 +10,19 @@ This was my first dive into building DIY mechanical keyboards, and needless to s
 # Getting Started
 So, you want to design a custom keyboard from scratch? Well, let's assume (like me) that you don't know the first thing about designing a custom keyboard from scratch. In that case, where do you start?
 
-Well first, let's take stock of what knowledge you'll need:
+Well first, let's take stock of what knowledge you'll need to gain in order to complete this project:
+- PCB Design
+	- You'll need to be 
+- 3d Design
+- Firmware
+
+### Where I started
 - PCB Design
 	- I had designed several PCB's up to this point, but nothing more complicated than connecting some traces between through hole components. Definitely nothing with any SMD components, and I have only ever glanced at datasheets (only to become overwhelmed and immediately close them).
 - 3d design
 	- While I am certainly not "gifted" in this category, I have to admit I have some formal training in CAD from my early days of College as a mechanical engineer. 
 - Firmware
 	- This is the category that I am most comfortable in, which is lucky as that's my day job. However, I don't have experience writing QMK and I haven't written C code in like 8 years, so I still had many things to learn.
-
-
 
 # Useful Links
 ## Video Guides
